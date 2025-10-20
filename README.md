@@ -2,9 +2,6 @@
 Este repositório reúne alguns dos projetos desenvolvidos durante o meu mestrado , com foco em Machine Learning, Análise de Dados e Inteligência Artificial.  
 
 # Projetos do Mestrado em Análise e Engenharia de Big Data
-
-Este repositório reúne alguns dos projetos desenvolvidos durante o meu mestrado, com foco em Machine Learning, Análise de Dados e Inteligência Artificial.  
-
 ---
 
  Projeto 1 – Conversational Search (em grupo)
